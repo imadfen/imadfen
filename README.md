@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Imad Fenniche</h2>
+<h2 align="left">Imad Fenniche</h2>
 
 ###
 
@@ -54,8 +54,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadfen&show_icons=true&theme=dracula" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadfen&layout=compact&theme=dracula" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=imadfen&show_icons=true&theme=dracula" height="160px" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadfen&layout=compact&theme=dracula"  height="160px%" alt="languages graph"  />
 </div>
 
 ###
@@ -75,7 +75,7 @@
   <a href="https://www.instagram.com/imad_fen.3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
-  <a href="imadfen20@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=imadfen20@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
   <a href="http://discordapp.com/users/776405859395436579" target="_blank">
