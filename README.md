@@ -1,4 +1,4 @@
-<h2 align="left">Imad Fenniche</h2>
+<h1 align="left">Imad Fenniche</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🌟 # Skills</h3>
+<h2 align="left">🌟 # Skills</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">Currently learning:</h4>
+<h3 align="left">Currently learning:</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">📊 # Stats</h3>
+<h2 align="left">📊 # Stats</h2>
 
 ###
 
@@ -57,6 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imadfen&show_icons=true&theme=dracula" height="160px" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadfen&layout=compact&theme=dracula"  height="160px%" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">🔗 # Links</h2>
 
 ###
 
@@ -85,6 +89,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imad/imad/blob/output/snake.svg" alt="Snake animation" />
+<br/>
+<h3 align="left">🔥 # Cool Stuff</h3>
+
+###
+
+<img src="./snake.svg" alt="Activity snake" width="100%"/>
 
 ###
