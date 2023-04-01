@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Imad Fenniche</h2>
+<h2 align="left">Hi 👋 I'm Imad Fenniche</h2>
 
 ###
 
@@ -54,8 +54,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadfen&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&custom_title=My Stats" height="140" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imadfen&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=imadfen&show_icons=true&theme=dracula" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadfen&layout=compact&theme=dracula" height="200" alt="languages graph"  />
 </div>
 
 ###
