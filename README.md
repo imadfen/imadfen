@@ -94,6 +94,6 @@
 
 ###
 
-<img src="./snake.svg" alt="Activity snake" width="100%"/>
+
 
 ###
