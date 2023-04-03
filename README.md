@@ -94,6 +94,8 @@
 
 ###
 
-
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/imadfen/imadfen/output/github-contribution-grid-snake-dark.svg" alt="Activity Snake"/>
+</div>
 
 ###
