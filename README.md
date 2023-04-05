@@ -1,4 +1,4 @@
-<h1 align="left">Imad Fenniche</h1>
+<h1 align="center">Imad Fenniche</h1>
 
 ###
 
@@ -7,6 +7,17 @@
 ###
 
 <p align="left">I do other stuff like:<br>🖥️ desktop app development.<br>🎥 video editing.<br>📷 photography<br>🖼️ design and photo editing</p>
+
+###
+
+<h2>⌛ # Currently In Progress...</h2>
+
+###
+
+<ul>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+</ul>
 
 ###
 
