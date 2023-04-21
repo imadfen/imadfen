@@ -15,7 +15,6 @@
 ###
 
 <ul>
-  <li>Express.js</li>
   <li>MongoDB</li>
 </ul>
 
@@ -26,28 +25,18 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" alt="ubuntu logo"  />
-  <img src="./unityLogo.png" width="60" alt="unity logo" style="background-color=white" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" alt="illustrator logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60" alt="premierepro logo"  />
+  <img src="https://img.shields.io/badge/python-yellowgreen?logo=python&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="python"  />
+  <img src="https://img.shields.io/badge/csharp-%239B4993?logo=csharp&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="csharp"  />
+  <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="javascript"  />
+  <img src="https://img.shields.io/badge/html-red?logo=html5&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="html5"  />
+  <img src="https://img.shields.io/badge/css-%23264de4?logo=css3&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="css3"  />
+  <img src="https://camo.githubusercontent.com/924446ea65193e79f9c710d414c2bdeaeb5f7a41714b1d4c3e1b83fc6db4907d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" width="fit-content" height="50px" alt="java"  />
+  <img src="https://img.shields.io/badge/php-%23474A8A?logo=php&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="php"  />
+  <img src="https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="mysql"  />
+  <img src="https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="bootstrap"  />
+  <img src="https://img.shields.io/badge/react-%2361DBFB?logo=react&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="react"  />
+  <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="nodejs"  />
+  <img src="https://img.shields.io/badge/linux-white?logo=linux&logoColor=black&style=for-the-badge" width="fit-content" height="50px" alt="linux"  />
 </div>
 
 ###
@@ -56,7 +45,7 @@
 
 ###
 
-<p align="left">💠 Cyber security.<br>💠 Non-SQL database.<br>💠 AI and machine learning.<br>💠 Mobile App development.<br>💠 Game Development.</p>
+<p align="left">💠 Cyber security.<br>💠 Non-SQL database.<br>💠 AI and machine learning.<br>💠 Mobile App development.
 
 ###
 
