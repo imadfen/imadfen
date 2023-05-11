@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="bootstrap"  />
   <img src="https://img.shields.io/badge/react-%2361DBFB?logo=react&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="react"  />
   <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="nodejs"  />
+  <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="expressjs"  />
   <img src="https://img.shields.io/badge/linux-white?logo=linux&logoColor=black&style=for-the-badge" width="fit-content" height="50px" alt="linux"  />
 </div>
 
