@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I do other stuff like:<br>🖥️ desktop app development.<br>🎥 video editing.<br>📷 photography<br>🖼️ design and photo editing</p>
+<p align="left">I do other stuff like:<br>🖥️ desktop app development.<br>🎥 video editing.<br>📷 photography<br>🖼️ design and photo editing</p> 
 
 ###
 
