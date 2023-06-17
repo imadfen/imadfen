@@ -10,34 +10,39 @@
 
 ###
 
-<h2>⌛ # Currently In Progress...</h2>
+<!---<h2>⌛ # Currently In Progress...</h2>
 
 ###
 
-<ul>
-  <li>MongoDB</li>
-</ul>
 
-###
+###--->
 
 <h2 align="left">🌟 # Skills</h2>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-yellowgreen?logo=python&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="python"  />
-  <img src="https://img.shields.io/badge/csharp-%239B4993?logo=csharp&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="csharp"  />
-  <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="javascript"  />
-  <img src="https://img.shields.io/badge/html-red?logo=html5&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="html5"  />
-  <img src="https://img.shields.io/badge/css-%23264de4?logo=css3&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="css3"  />
-  <img src="https://camo.githubusercontent.com/924446ea65193e79f9c710d414c2bdeaeb5f7a41714b1d4c3e1b83fc6db4907d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" width="fit-content" height="50px" alt="java"  />
-  <img src="https://img.shields.io/badge/php-%23474A8A?logo=php&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="php"  />
-  <img src="https://img.shields.io/badge/sql-%2300758F?logo=mysql&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="mysql"  />
-  <img src="https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="bootstrap"  />
-  <img src="https://img.shields.io/badge/react-%2361DBFB?logo=react&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="react"  />
-  <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="nodejs"  />
-  <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white&style=for-the-badge" width="fit-content" height="50px" alt="expressjs"  />
-  <img src="https://img.shields.io/badge/linux-white?logo=linux&logoColor=black&style=for-the-badge" width="fit-content" height="50px" alt="linux"  />
+  <img src="https://img.shields.io/badge/python-yellowgreen?logo=python&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="python"  />
+  <img src="https://img.shields.io/badge/csharp-%239B4993?logo=csharp&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="csharp"  />
+  <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="javascript"  />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="fit-content" height="45px" alt="typescript"  />
+  <img src="https://img.shields.io/badge/html-red?logo=html5&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="html5"  />
+  <img src="https://img.shields.io/badge/css-%23264de4?logo=css3&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="css3"  />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" width="fit-content" height="45px" alt="expressjs"  />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="fit-content" height="45px" alt="bootstrap"  />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="fit-content" height="45px" alt="java"  />
+  <img src="https://img.shields.io/badge/php-%23474A8A?logo=php&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="php"  />
+  <img src="https://img.shields.io/badge/react-%2361DBFB?logo=react&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="react"  />
+  <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="nodejs"  />
+  <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="expressjs"  />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="fit-content" height="45px" alt="nextjs"  />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" width="fit-content" height="45px" alt="prisma"  />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="fit-content" height="45px" alt="mongodb"  />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="fit-content" height="45px" alt="mysql"  />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="fit-content" height="45px" alt="postgresql"  />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="fit-content" height="45px" alt="mysqlitejs"  />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" width="fit-content" height="45px" alt="socketio"  />
+  <img src="https://img.shields.io/badge/linux-white?logo=linux&logoColor=black&style=for-the-badge" width="fit-content" height="45px" alt="linux"  />
 </div>
 
 ###
