@@ -51,7 +51,9 @@
 
 ###
 
-<p align="left">💠 Cyber security.<br>💠 Non-SQL database.<br>💠 AI and machine learning.<br>💠 Mobile App development.
+  💠 Cyber security.<br>
+  💠 AI and machine learning.<br>
+  💠 Mobile App development.
 
 ###
 
