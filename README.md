@@ -30,12 +30,15 @@
   <img src="https://img.shields.io/badge/css-%23264de4?logo=css3&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="css3"  />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" width="fit-content" height="45px" alt="expressjs"  />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="fit-content" height="45px" alt="bootstrap"  />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" width="fit-content" height="45px" alt="bootstrap"  />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="fit-content" height="45px" alt="java"  />
   <img src="https://img.shields.io/badge/php-%23474A8A?logo=php&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="php"  />
   <img src="https://img.shields.io/badge/react-%2361DBFB?logo=react&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="react"  />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="fit-content" height="45px" alt="react"  />
   <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="nodejs"  />
   <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="expressjs"  />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="fit-content" height="45px" alt="nextjs"  />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" width="fit-content" height="45px" alt="nextjs"  />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" width="fit-content" height="45px" alt="prisma"  />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="fit-content" height="45px" alt="mongodb"  />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="fit-content" height="45px" alt="mysql"  />
