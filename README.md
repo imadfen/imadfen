@@ -96,6 +96,9 @@
   <a href="http://discordapp.com/users/776405859395436579" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
   </a>
+  <a href="https://twitter.com/FenImad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X-Twitter&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+  </a>
 </div>
 
 ###
