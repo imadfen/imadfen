@@ -54,9 +54,7 @@
 
 ###
 
-  💠 Cyber security.<br>
   💠 AI and machine learning.<br>
-  💠 Mobile App development.
 
 ###
 
