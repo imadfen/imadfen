@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="fit-content" height="45px" alt="npm"  />
   <img src="https://img.shields.io/badge/node-darkgreen?logo=node.js&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="nodejs"  />
   <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white&style=for-the-badge" width="fit-content" height="45px" alt="expressjs"  />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="fit-content" height="45px" alt="django"  />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="fit-content" height="45px" alt="nextjs"  />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" width="fit-content" height="45px" alt="vite"  />
   <img src="https://img.shields.io/badge/flutter-08589c?style=for-the-badge&logo=flutter&logoColor=1fbcfd" width="fit-content" height="45px" alt="flutter"  />
